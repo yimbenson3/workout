@@ -5,8 +5,8 @@ WEIGHT_KG = YOUR WEIGHT
 HEIGHT_CM = YOUR HEIGHT
 AGE = YOUR AGE
 
-APP_ID = YOUR APP ID
-API_KEY = YOUR API KEY
+APP_ID = "APP_ID"
+API_KEY = "API_KEY"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
